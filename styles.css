@@ -41,12 +41,12 @@ h1{
 }
 section{
      background-color: rgb(45 45 45);
-     color: white;/*these values are given*/
+     color: white;
      padding:5rem 0;
 }
 .secHeading{
      font-size: 4rem;
-     padding-left: 6rem;/*rem is best practice*/
+     padding-left: 6rem;
      
 }
 .text{
@@ -66,7 +66,7 @@ section{
 .bg{
      position:relative;
      width: 100%;
-     background-attachment: fixed;/*agar ye nahi kiya to image bhi chalegi*/
+     background-attachment: fixed;
      background-size: cover;
      background-position:center ;
      height:500px;
